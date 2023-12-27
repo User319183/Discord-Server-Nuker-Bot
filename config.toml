@@ -1,0 +1,13 @@
+RoleName = "nuked by user319183"
+ChannelName = "nuked by user319183"
+WebhookName = "user319183 wins again"
+WebhookSpamMessage = "@everyone discord.gg/jbVnp3hnCa"
+TTS = true
+ProfilePictureLink = "https://cdn.discordapp.com/avatars/1162389203917742121/703c76a6c4450c3b7ffbba595c189f34.webp?size=1024"
+ProfilePictureName = "picturename.png"
+ShouldMassDM = true
+MassDMMessage = "https://discord.gg/jbVnp3hnCa join this"
+
+NumChannels = 35
+NumWebhooksPerChannel = 10
+NumRoles = 250
