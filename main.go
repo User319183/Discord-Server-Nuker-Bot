@@ -9,7 +9,7 @@ import (
 	"syscall"
 
 	"github.com/fatih/color"
-    "github.com/joho/godotenv"
+	"github.com/joho/godotenv"
 	"github.com/BurntSushi/toml"
 	"github.com/bwmarrin/discordgo"
 )
