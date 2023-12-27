@@ -29,9 +29,9 @@ type Config struct {
 	ShouldMassDM       bool
 	MassDMMessage      string
 
-    NumChannels            int
-    NumWebhooksPerChannel  int
-    NumRoles               int
+	NumChannels            int
+	NumWebhooksPerChannel  int
+	NumRoles               int
 }
 
 func init() {
